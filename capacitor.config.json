@@ -1,0 +1,6 @@
+{
+  "appId": "com.meowaw.pos",
+  "appName": "MeowAw POS",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
